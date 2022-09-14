@@ -1,5 +1,5 @@
 # Python code to demonstrate working of
-# insert(), index(), remove(), count()
+# insert(), index(), remove(), count() holaaaaaaaaaa
 
 # importing "collections" for deque operations
 import collections
@@ -11,7 +11,7 @@ de = collections.deque([1, 2, 3, 3, 4, 2, 4])
 print("The number 4 first occurs at a position : ")
 print(de.index(4, 2, 5))
 
-# using insert() to insert the value 3 at 5th position
+# using insert() to insert the value 3 at 5th position iiiiiii
 de.insert(4, 3)
 
 # printing modified deque
